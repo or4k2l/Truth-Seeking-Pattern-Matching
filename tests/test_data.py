@@ -30,12 +30,9 @@ class TestScalableDataLoader:
             batch_size=32,
             image_size=(32, 32)
         )
-        
-        # Load small subset for testing
-        ds = loader.load_dataset("train")
+        # Korrekt gebatchtes und geformtes Dataset laden
+        ds = loader.create_dataset("train")
         assert ds is not None
-        
-        # Check batch shape
         for batch in ds.take(1):
             images, labels = batch
             assert images.shape[0] == 32  # batch size
