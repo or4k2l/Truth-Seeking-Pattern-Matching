@@ -101,9 +101,9 @@ def main():
         augment=True
     )
     
-    # Load datasets
-    train_ds = data_loader.get_train_loader()
-    eval_ds = data_loader.get_test_loader()
+    # Load datasets (TF datasets, not iterators, so they can be reused)
+    train_ds = data_loader.create_dataset('train', repeat=False)
+    eval_ds = data_loader.create_dataset('test', repeat=False)
     
     logger.info(f"Training dataset loaded")
     logger.info(f"Evaluation dataset loaded")
