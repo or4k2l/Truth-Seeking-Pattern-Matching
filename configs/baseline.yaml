@@ -1,3 +1,10 @@
+# Robust Vision Configuration - Baseline
+# Repository: https://github.com/or4k2l/robust-vision
+
+metadata:
+  framework: robust-vision
+  version: 1.0.0
+
 model:
   n_classes: 10
   features: [64, 128, 256]

@@ -1,4 +1,11 @@
+# Robust Vision Production Image
+# Repository: https://github.com/or4k2l/robust-vision
+
 FROM nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu22.04
+
+LABEL maintainer="or4k2l"
+LABEL repository="https://github.com/or4k2l/robust-vision"
+LABEL description="Production-ready robust vision training framework"
 
 # Set environment variables
 ENV DEBIAN_FRONTEND=noninteractive

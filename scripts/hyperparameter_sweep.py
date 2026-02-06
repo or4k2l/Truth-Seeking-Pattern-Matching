@@ -21,8 +21,14 @@ from robust_vision.utils.config import Config, ModelConfig, TrainingConfig
 def parse_args():
     """Parse command line arguments."""
     parser = argparse.ArgumentParser(
-        description="Hyperparameter sweep for robust vision models",
-        formatter_class=argparse.ArgumentDefaultsHelpFormatter
+        description="Robust Vision Hyperparameter Sweep Script",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog='''
+Examples:
+  python scripts/hyperparameter_sweep.py --output ./sweep_results --epochs 10
+  
+For more info: https://github.com/or4k2l/robust-vision
+'''
     )
     
     parser.add_argument(

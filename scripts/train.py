@@ -20,8 +20,15 @@ from robust_vision.utils.logging import setup_logging, MetricsLogger
 def parse_args():
     """Parse command line arguments."""
     parser = argparse.ArgumentParser(
-        description="Train a robust vision model",
-        formatter_class=argparse.ArgumentDefaultsHelpFormatter
+        description="Robust Vision Training Script",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog='''
+Examples:
+  python scripts/train.py --config configs/baseline.yaml
+  python scripts/train.py --config configs/margin_loss.yaml --seed 1234
+  
+For more info: https://github.com/or4k2l/robust-vision
+'''
     )
     
     parser.add_argument(

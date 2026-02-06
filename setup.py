@@ -28,10 +28,10 @@ setup(
     description="Production-Ready Robust Vision: Scalable Training Framework",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/or4k2l/Truth-Seeking-Pattern-Matching",
+    url="https://github.com/or4k2l/robust-vision",
     project_urls={
-        "Bug Tracker": "https://github.com/or4k2l/Truth-Seeking-Pattern-Matching/issues",
-        "Source Code": "https://github.com/or4k2l/Truth-Seeking-Pattern-Matching",
+        "Bug Tracker": "https://github.com/or4k2l/robust-vision/issues",
+        "Source Code": "https://github.com/or4k2l/robust-vision",
     },
     packages=find_packages(where="src"),
     package_dir={"": "src"},

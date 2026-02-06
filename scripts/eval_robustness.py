@@ -22,8 +22,14 @@ from flax.training import checkpoints
 def parse_args():
     """Parse command line arguments."""
     parser = argparse.ArgumentParser(
-        description="Evaluate model robustness",
-        formatter_class=argparse.ArgumentDefaultsHelpFormatter
+        description="Robust Vision Evaluation Script",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog='''
+Examples:
+  python scripts/eval_robustness.py --checkpoint ./checkpoints/best_checkpoint_18 --config configs/baseline.yaml
+  
+For more info: https://github.com/or4k2l/robust-vision
+'''
     )
     
     parser.add_argument(

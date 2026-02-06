@@ -12,8 +12,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/or4k2l/Truth-Seeking-Pattern-Matching.git
-cd Truth-Seeking-Pattern-Matching
+git clone https://github.com/or4k2l/robust-vision.git
+cd robust-vision
 ```
 
 ### 2. Create Virtual Environment
@@ -130,7 +130,7 @@ TensorFlow warnings about GPU can be ignored if you're only using it for data lo
 ### Google Colab
 
 ```python
-!pip install git+https://github.com/or4k2l/Truth-Seeking-Pattern-Matching.git
+!pip install git+https://github.com/or4k2l/robust-vision.git
 ```
 
 ### AWS

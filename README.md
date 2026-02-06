@@ -24,8 +24,8 @@ A production-ready, scalable framework for training robust vision models with ad
 ### Installation
 
 ```bash
-git clone https://github.com/or4k2l/Truth-Seeking-Pattern-Matching.git
-cd Truth-Seeking-Pattern-Matching
+git clone https://github.com/or4k2l/robust-vision.git
+cd robust-vision
 pip install -r requirements.txt
 pip install -e .
 ```
@@ -226,7 +226,7 @@ If you use this framework in your research, please cite:
   author = {Akbay, Yahya},
   title = {Robust Vision: Production-Ready Scalable Training Framework},
   year = {2026},
-  url = {https://github.com/or4k2l/Truth-Seeking-Pattern-Matching}
+  url = {https://github.com/or4k2l/robust-vision}
 }
 ```
 
@@ -242,7 +242,7 @@ Built with:
 
 ## 📧 Contact
 
-For questions or issues, please [open an issue](https://github.com/or4k2l/Truth-Seeking-Pattern-Matching/issues) on GitHub.
+For questions or issues, please [open an issue](https://github.com/or4k2l/robust-vision/issues) on GitHub.
 
 ---
 

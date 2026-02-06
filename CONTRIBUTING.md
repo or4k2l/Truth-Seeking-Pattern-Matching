@@ -1,6 +1,12 @@
-# Contributing
+# Contributing to Robust Vision
 
-Thanks for your interest in contributing.
+Thanks for your interest in contributing to Robust Vision!
+
+## Repository
+
+- GitHub: https://github.com/or4k2l/robust-vision
+- Issues: https://github.com/or4k2l/robust-vision/issues
+- Pull Requests: https://github.com/or4k2l/robust-vision/pulls
 
 ## Quick Guidelines
 
@@ -12,9 +18,12 @@ Thanks for your interest in contributing.
 ## Development Setup
 
 ```bash
+git clone https://github.com/or4k2l/robust-vision.git
+cd robust-vision
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+pip install -e ".[dev]"
 ```
 
 ## Suggested Areas
