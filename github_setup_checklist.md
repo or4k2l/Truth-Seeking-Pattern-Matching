@@ -6,7 +6,7 @@ Follow these steps to publish your repository.
 
 ### Via GitHub Website
 1. Go to https://github.com/new
-2. Repository name: `physical-pattern-matching`
+2. Repository name: `truth-seeking-pattern-matching`
 3. Description: "High-Confidence Pattern Recognition via Memristive Crossbars"
 4. Public (for visibility)
 5. Initialize with README: no (we have our own)
@@ -14,7 +14,7 @@ Follow these steps to publish your repository.
 
 ### Via GitHub CLI (if you have it)
 ```bash
-gh repo create physical-pattern-matching --public --description "High-Confidence Pattern Recognition via Memristive Crossbars"
+gh repo create truth-seeking-pattern-matching --public --description "Truth-Seeking Pattern Matching"
 ```
 
 ---
@@ -34,10 +34,10 @@ git init
 git add .
 
 # Make first commit
-git commit -m "Initial commit: Physically-Inspired Pattern Matching v1.0"
+git commit -m "Initial commit: Truth-Seeking Pattern Matching v1.0"
 
 # Add remote (replace 'or4k2l' with your username)
-git remote add origin https://github.com/or4k2l/physical-pattern-matching.git
+git remote add origin https://github.com/or4k2l/truth-seeking-pattern-matching.git
 
 # Push to GitHub
 git branch -M main
@@ -134,13 +134,13 @@ Then on GitHub:
 
 ### Tweet Template
 ```
-New open-source research: Physically-Inspired Pattern Matching
+New open-source research: Truth-Seeking Pattern Matching
 
 Physical hardware constraints -> 158x higher confidence margins than CNNs.
 
 100 images tested, ablation study, full reproducibility.
 
-Code: https://github.com/or4k2l/physical-pattern-matching
+Code: https://github.com/or4k2l/truth-seeking-pattern-matching
 
 #MachineLearning #NeuromorphicComputing #OpenScience
 ```
@@ -170,8 +170,8 @@ Create `notebook.ipynb` for easy experimentation:
 
 ```python
 # At the top of the notebook
-!git clone https://github.com/or4k2l/physical-pattern-matching.git
-%cd physical-pattern-matching
+!git clone https://github.com/or4k2l/truth-seeking-pattern-matching.git
+%cd truth-seeking-pattern-matching
 !pip install -r requirements.txt
 
 # Then run

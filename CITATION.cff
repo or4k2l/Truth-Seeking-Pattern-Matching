@@ -5,11 +5,11 @@ authors:
     given-names: "Yahya"
     orcid: "https://orcid.org/0000-0000-0000-0000"  # Add your ORCID if you have one
     alias: "or4k2l"
-title: "Physically-Inspired Robust Pattern Matching: High-Confidence Pattern Recognition via Memristive Crossbars"
+title: "Truth-Seeking Pattern Matching: High-Confidence Pattern Recognition via Memristive Crossbars"
 version: 1.0.0
 date-released: 2025-02-05
-url: "https://github.com/or4k2l/physical-pattern-matching"
-repository-code: "https://github.com/or4k2l/physical-pattern-matching"
+url: "https://github.com/or4k2l/truth-seeking-pattern-matching"
+repository-code: "https://github.com/or4k2l/truth-seeking-pattern-matching"
 keywords:
   - neuromorphic computing
   - memristive crossbar

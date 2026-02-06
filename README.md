@@ -1,11 +1,11 @@
-# Physically-Inspired Robust Pattern Matching
+# Truth-Seeking Pattern Matching
 
 **High-Confidence Pattern Recognition via Memristive Crossbar Arrays**
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![JAX 0.4+](https://img.shields.io/badge/JAX-0.4+-orange.svg)](https://github.com/google/jax)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/or4k2l/physical-pattern-matching/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/or4k2l/truth-seeking-pattern-matching/blob/main/notebook.ipynb)
 
 **Full paper:** [paper.md](paper.md) or [paper.tex](paper.tex)
 
@@ -163,8 +163,8 @@ feedback. **Treat conclusions with caution.**
 Install dependencies and run the benchmark:
 
 ```bash
-git clone https://github.com/or4k2l/physical-pattern-matching.git
-cd physical-pattern-matching
+git clone https://github.com/or4k2l/truth-seeking-pattern-matching.git
+cd truth-seeking-pattern-matching
 pip install -r requirements.txt
 python physically_inspired_pattern_matching.py
 ```
@@ -229,16 +229,16 @@ Ideas that would help most:
 - Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Submission guide: [submission_guide.md](submission_guide.md)
 - GitHub setup: [github_setup_checklist.md](github_setup_checklist.md)
-- Issues: https://github.com/or4k2l/physical-pattern-matching/issues
-- Discussions: https://github.com/or4k2l/physical-pattern-matching/discussions
+- Issues: https://github.com/or4k2l/truth-seeking-pattern-matching/issues
+- Discussions: https://github.com/or4k2l/truth-seeking-pattern-matching/discussions
 
-<img width="1590" height="1199" alt="PPM_images_x" src="https://github.com/user-attachments/assets/1d9d31bf-50cd-4a54-a285-7648338b4249" />
+![H1 clipping analysis](assets/h1_clipping_analysis.png)
 
-<img width="1589" height="1198" alt="PPM_images_x1" src="https://github.com/user-attachments/assets/348cc407-c371-46ce-8338-7b6f9c09799c" />
+![H2 learning rule analysis](assets/h2_learning_rule_analysis.png)
 
-<img width="1590" height="1198" alt="PPM_images_x2" src="https://github.com/user-attachments/assets/088223c2-8f59-427e-88c5-0d8b0936007b" />
+![H3 CNN margin analysis](assets/h3_cnn_margin_analysis.png)
 
-<img width="1680" height="1024" alt="PPM_images_x3" src="https://github.com/user-attachments/assets/ac5b1bf8-0e05-4744-a1e9-37fa292adf58" />
+![Final truth summary](assets/final_truth.png)
 
 
 

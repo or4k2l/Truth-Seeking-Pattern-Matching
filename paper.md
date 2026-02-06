@@ -1,9 +1,9 @@
-# High-Confidence Pattern Recognition via Physically-Constrained Computing: Memristive Crossbar Arrays for Safety-Critical Systems
+# Hebbian Learning Achieves Superior Robustness Through Natural Margin Maximization: A Comparative Study on Autonomous Driving Data
 
 **Author:** Yahya Akbay
 **Affiliation:** Independent Researcher, Berlin, Germany
 **Contact:** oneochrone@gmail.com
-**Code:** https://github.com/or4k2l/physical-pattern-matching
+**Code:** https://github.com/or4k2l/truth-seeking-pattern-matching
 
 ---
 
@@ -316,7 +316,7 @@ Our work suggests that **hardware-aware design can achieve superior robustness**
 
 All code, data, and experiment configurations are available at:
 
-**https://github.com/or4k2l/physical-pattern-matching**
+**https://github.com/or4k2l/truth-seeking-pattern-matching**
 
 ---
 

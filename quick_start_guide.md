@@ -7,16 +7,16 @@ Get up and running in 5 minutes.
 ### Option 1: Standard Installation (CPU)
 
 ```bash
-git clone https://github.com/or4k2l/physical-pattern-matching.git
-cd physical-pattern-matching
+git clone https://github.com/or4k2l/truth-seeking-pattern-matching.git
+cd truth-seeking-pattern-matching
 pip install -r requirements.txt
 ```
 
 ### Option 2: GPU Support (Faster)
 
 ```bash
-git clone https://github.com/or4k2l/physical-pattern-matching.git
-cd physical-pattern-matching
+git clone https://github.com/or4k2l/truth-seeking-pattern-matching.git
+cd truth-seeking-pattern-matching
 
 # For CUDA 11
 pip install jax[cuda11_pip] -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
@@ -27,7 +27,7 @@ pip install pandas matplotlib seaborn tqdm pillow kagglehub
 
 ### Option 3: Google Colab (No Installation)
 
-[Open In Colab](https://colab.research.google.com/github/or4k2l/physical-pattern-matching/blob/main/notebook.ipynb)
+[Open In Colab](https://colab.research.google.com/github/or4k2l/truth-seeking-pattern-matching/blob/main/notebook.ipynb)
 
 Just click the badge and run.
 
@@ -190,8 +190,8 @@ After your first run:
 
 ## Getting Help
 
-- Bug? Open an issue: https://github.com/or4k2l/physical-pattern-matching/issues
-- Question? Start a discussion: https://github.com/or4k2l/physical-pattern-matching/discussions
+- Bug? Open an issue: https://github.com/or4k2l/truth-seeking-pattern-matching/issues
+- Question? Start a discussion: https://github.com/or4k2l/truth-seeking-pattern-matching/discussions
 - Want to contribute? See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---

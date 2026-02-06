@@ -275,7 +275,7 @@ Key contributions include:
 
 This work is original and has not been submitted elsewhere. All code
 and data are publicly available at:
-https://github.com/or4k2l/physical-pattern-matching
+https://github.com/or4k2l/truth-seeking-pattern-matching
 
 Thank you for your consideration.
 
