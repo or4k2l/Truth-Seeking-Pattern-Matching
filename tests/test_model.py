@@ -54,6 +54,9 @@ class TestProductionCNN:
         # Extract logits and updated batch_stats
         logits, updated_vars = output
         
+        # Verify batch_stats is present (model uses BatchNorm)
+        assert 'batch_stats' in updated_vars
+        
         # Should produce valid output
         assert logits.shape == (4, 10)
         assert not jnp.any(jnp.isnan(logits))
