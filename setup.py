@@ -24,7 +24,7 @@ setup(
     name="robust-vision",
     version="1.0.0",
     author="Yahya Akbay",
-    author_email="yahya.akbay@example.com",
+    author_email="oneochrone@mail.com",
     description="Production-Ready Robust Vision: Scalable Training Framework with Advanced Techniques",
     long_description=long_description,
     long_description_content_type="text/markdown",
