@@ -15,6 +15,19 @@
 
 This repository presents a physically-inspired approach to robust pattern recognition using memristive crossbar arrays. The key finding is that **physical constraints provide implicit regularization**, yielding much higher confidence margins than standard digital approaches under noise.
 
+## ⚠️ Important Note
+
+**This is exploratory research. The central claim that physical
+constraints improve robustness is NOT conclusively proven.**
+
+Our ablation study shows that unconstrained Hebbian learning
+achieves HIGHER SNR than constrained versions. The advantage
+over CNNs may stem from architectural differences rather than
+physical constraints.
+
+We're sharing this work for transparency and to invite community
+feedback. **Treat conclusions with caution.**
+
 **Key result:** Physical crossbars achieve **158x higher confidence margins** than CNNs at equal accuracy on KITTI.
 
 | Metric | Physical Crossbar | Digital Baseline | CNN |
