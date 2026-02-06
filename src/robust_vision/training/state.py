@@ -3,6 +3,7 @@
 from typing import Any, Optional
 from flax.training import train_state
 import optax
+import jax
 import jax.numpy as jnp
 from flax import struct
 

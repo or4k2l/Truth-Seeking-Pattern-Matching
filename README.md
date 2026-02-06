@@ -6,7 +6,7 @@
 [![Docker](https://img.shields.io/docker/v/or4k2l/robust-vision?label=docker)](https://hub.docker.com/r/or4k2l/robust-vision)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![JAX](https://img.shields.io/badge/JAX-0.4+-orange.svg)](https://github.com/google/jax)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 A production-ready, scalable framework for training robust vision models with advanced techniques including EMA, label smoothing, margin loss, and multi-GPU support.
 
@@ -251,7 +251,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 ## 📄 License
 
-This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
+This project is licensed under the GNU Affero General Public License v3 - see [LICENSE](LICENSE) for details.
 
 ## 📖 Citation
 
