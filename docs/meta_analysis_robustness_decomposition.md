@@ -768,7 +768,7 @@ The scientific method works—if we have the courage to follow where it leads.
 ---
 
 For Questions or Collaboration:
-- Email: yahya.akbay@research.example.com
+- Email: oneochrone@gmail.com
 - GitHub: github.com/or4k2l/robustness-decomposition
 - Twitter: @or4k2l
 
