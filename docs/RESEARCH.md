@@ -320,7 +320,7 @@ If you use these experimental configurations, please cite both:
 ## Questions?
 
 - **Framework issues:** [Open an issue](https://github.com/or4k2l/robust-vision/issues)
-- **Research questions:** yahya.akbay@example.com
+- **Research questions:** oneochrone@gmail.com
 - **Paper discussion:** [arXiv comments](https://arxiv.org)
 
 ---
