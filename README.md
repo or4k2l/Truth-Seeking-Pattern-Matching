@@ -1,5 +1,7 @@
 <img width="1680" height="1024" alt="PPM_images_x3" src="https://github.com/user-attachments/assets/8d664976-83a2-45a4-915f-b42932bdc35a" />
 
+<img width="1776" height="1176" alt="Herunterladen (1)" src="https://github.com/user-attachments/assets/ac5228a8-d667-4423-af67-bd6a8aa9bc31" />
+
 [![Research Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.XXXXX)
 [![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25-success.svg)](#)
 # Reproducing Research Results
